@@ -1,0 +1,25 @@
+body{
+    background-color: #ffffff;
+}
+
+#lista{
+    background-color: yellow;
+}
+
+#cajas .caja{
+    float: left;
+    width: 25%;
+    padding: 70px;
+}
+
+#imagenes{
+    background-color: #3ed81f;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #000;
+    background-color: #ccc;
+    text-align: center;
+}

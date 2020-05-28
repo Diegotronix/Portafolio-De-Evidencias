@@ -1,0 +1,14 @@
+.car{
+    border: 0;
+}
+
+tr:nth-child(odd) {
+    background-color:#f2f2f2;
+}
+tr:nth-child(even) {
+    background-color:#f2f2f2;
+}
+
+.fondo{
+    background-color: rgba(84, 180, 166, 0.041);
+}

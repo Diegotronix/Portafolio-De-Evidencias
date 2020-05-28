@@ -1,0 +1,39 @@
+.logo{
+    width: 30%;
+    height: 50%;
+    font-family: verdana;
+    margin-left: 35%;
+}
+
+form{
+    float: right;
+    margin-top: 10px;
+}
+
+.bt{
+    margin-top: 6%;
+}
+
+.prim{
+
+    margin-top: 1%;
+
+}
+
+.not{
+    margin-top: 10%;
+    margin-left: 12%;
+
+}
+
+.noticia{
+    margin-top: -35%;
+    padding-left: 75%;
+}
+
+footer{
+    padding: 20px;
+    margin: 0px;
+    color: #ffffff;
+    background-color: #119611;
+}

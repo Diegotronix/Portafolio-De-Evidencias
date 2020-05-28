@@ -1,0 +1,134 @@
+.menucabecera
+{
+    background-color: #ff9933;
+    height: 40px;
+    text-align: right;
+}
+
+.menucabecera a:link, a:visited
+{
+    border-right: #ff6600 1px solid;
+    padding-right: 8px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menucabecera a:hover
+{
+    color: #000000;
+}
+
+.cabecera
+{
+   background-color: #ff9933;
+   height: 120px;
+   padding: 5px 5px 5px 5px;
+   color: #fff; 
+}
+
+.cabecera h5
+{
+    color: #993300;
+    font-weight: bold;
+}
+
+.menuprincipal
+{
+    background-color: #993300;
+    height: 40px;
+}
+
+.menu
+{
+    list-style: none;
+    font: 85% Arial;
+}
+
+.mh
+{
+    float: left;
+    padding: 0 0 0 1px;
+    margin: 0px;
+}
+
+.mh li
+{
+    float: left;
+    border-right: 1px solid #fff;
+    height: 40px;
+}
+
+.menu li a:link, li a:visited
+{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 6px 20px;
+    height: 40px;
+}
+
+.menu li a.activo
+{
+    color: #000;
+    background: #ff9933;
+    height: 40px;
+}
+
+.menu li a:hover
+{
+    color: #000;
+    background: #FFCC66;
+    height: 40px;
+}
+
+.bannerimg
+{
+    background: #fff;
+    text-align: center;
+    border-bottom: 3px solid #ff9933;
+}
+
+.textobanner
+{
+    background: #fff;
+    text-align: left;
+    color: #ff9933;
+    height: 303px;
+    border-bottom: 3px solid #ff9933;
+}
+
+.textobanner p
+{
+    margin: 30px;
+}
+
+.tamañofilacol
+{
+    height: 400px;
+}
+
+.c1
+{
+    background: #fff;
+    height: 100%;
+}
+
+.contenedor1
+{
+    margin: 10px;
+}
+
+.contenedor1 h3
+{
+    text-align: right;
+    color: #ff9933;
+    font-weight: bold;
+}
+
+.pie
+{
+    background-color: #ff9933;
+    height: 40px;
+    text-align: right;
+    padding: 5px 5px 5px 0;
+}
